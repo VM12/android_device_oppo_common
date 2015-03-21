@@ -16,6 +16,7 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="app_name">Papildu iestatījumi</string>
   <string name="backpad_panel_title">O-Touch iestatījumi</string>
   <string name="backpad_panel_summary">Iestatīt O-Touch</string>
   <string name="touchpad_enable_title">Ieslēgt O-Touch</string>
@@ -38,7 +39,6 @@
   <string name="oclick_panel_summary">Iestatīt O-Click iekārtu</string>
   <string name="oclick_connect_string">Izveidot savienojumu</string>
   <string name="oclick_disconnect_string">Atvienots</string>
-  <string name="oclick_dialog_connecting_message">Mēģinājums savienot pārī</string>
   <string name="oclick_take_snapshot_title">Attālinātais kameras slēdzis</string>
   <string name="oclick_take_snapshot_summary">Klikšķiniet, lai uzņemtu attēlu</string>
   <string name="oclick_find_my_phone_title">Telefona atrašana</string>
